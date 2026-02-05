@@ -26,7 +26,7 @@ Tenho familiaridade com Git, lógica de programação e ambientes Windows e Linu
   Aplicação introdutória utilizando componentes funcionais e organização de estado.
 
 ## 🌐 Acesse o Portfólio
-👉 https://lucasramos20.github.io/frontend-portfolio/
+👉 https://lucasramos20.github.io/lucas-frontend-portfolio/
 
 ## 📫 Contato
 - Email: r17.rlucas@gmail.com  
